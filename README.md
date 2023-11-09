@@ -46,17 +46,6 @@ Find the true love of your dog's life today. Download the Underdog app now:
 - [Download on the App Store](#)
 - [Get it on Google Play](#)
 
-## Contact
-
-Connect with us on social media:
-
-- ![Twitter](images/twitter.png)
-- ![Facebook](images/facebook.png)
-- ![Instagram](images/instagram.png)
-- ![Email](images/email.png)
-
-For inquiries, please email us at: contact@underdogapp.com
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
