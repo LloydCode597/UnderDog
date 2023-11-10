@@ -1,4 +1,6 @@
-# Underdog - Meet Dogs Nearby
+# Underdog Project - Meet Dogs Nearby
+
+A Startup website built with Bootstrap
 
 **Underdog** is a web application that connects dog lovers and their furry friends. Whether you're seeking playdates for your canine companion or hoping to find the love of their life, Underdog has you covered.
 This website showcases Bootstrap and advanced CSS for creating a startup landing page. 
